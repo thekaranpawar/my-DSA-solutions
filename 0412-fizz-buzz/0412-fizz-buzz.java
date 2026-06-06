@@ -1,22 +1,22 @@
 class Solution {
     public List<String> fizzBuzz(int n){
-        List<String> result = new ArrayList<>();
+        List<String> arr = new ArrayList<>();
 
         for (int i = 1; i <= n; i++){ 
 
             if (i % 3 == 0 && i % 5 == 0){
-                result.add("FizzBuzz");
+                arr.add("FizzBuzz");
             } 
             else if (i % 3 == 0){
-                result.add("Fizz");
+                arr.add("Fizz");  // add() always appends at the end
             } 
             else if (i % 5 == 0){
-                result.add("Buzz");
+                arr.add("Buzz");
             } 
             else {
-                result.add(i + "");
+                arr.add(i + "");
             }
         }
-        return result;
+        return arr;
     }
 }
