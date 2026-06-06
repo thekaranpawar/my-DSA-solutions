@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0412-fizz-buzz) |
 | [1952-three-divisors](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/1952-three-divisors) |
 ## Enumeration
 |  |
@@ -22,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/1952-three-divisors) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
