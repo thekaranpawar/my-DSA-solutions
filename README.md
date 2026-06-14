@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0344-reverse-string](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0344-reverse-string) |
 ## Trie
 |  |
 | ------- |
