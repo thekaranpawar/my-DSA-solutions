@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0509-fibonacci-number) |
 | [1952-three-divisors](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/1952-three-divisors) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
