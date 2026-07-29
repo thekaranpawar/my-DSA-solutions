@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0217-contains-duplicate) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0509-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1952-three-divisors](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/1952-three-divisors) |
 ## Enumeration
 |  |
