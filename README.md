@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0485-max-consecutive-ones) |
+| [0922-sort-array-by-parity-ii](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0268-missing-number) |
+| [0922-sort-array-by-parity-ii](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0344-reverse-string) |
+| [0922-sort-array-by-parity-ii](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Trie
