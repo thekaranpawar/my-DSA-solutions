@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1920-build-array-from-permutation](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Prefix Sum
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0412-fizz-buzz) |
+| [1920-build-array-from-permutation](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
