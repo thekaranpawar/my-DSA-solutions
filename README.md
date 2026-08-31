@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1952-three-divisors](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/1952-three-divisors) |
+| [3099-harshad-number](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/3099-harshad-number) |
 ## Enumeration
 |  |
 | ------- |
