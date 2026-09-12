@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0268-missing-number) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0268-missing-number) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0268-missing-number) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Recursion
 |  |
@@ -214,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/1051-height-checker) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/thekaranpawar/my-DSA-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
